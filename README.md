@@ -60,7 +60,9 @@ EC2_PRIVATE_KEY – Private key for SSH access
 Push changes to the main branch:
 
 git add .
+
 git commit -m "Updated code"
+
 git push origin main
 
 GitHub Actions will automatically execute the workflow.
