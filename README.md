@@ -37,8 +37,8 @@ Runs the container on EC2
 
 **Deployment**
 
-1. **Ensure AWS EC2 Instance is Set Up
-**
+1. **Ensure AWS EC2 Instance is Set Up**
+
 Install Docker: sudo apt update && sudo apt install docker.io -y
 
 Start Docker: sudo systemctl start docker && sudo systemctl enable docker
